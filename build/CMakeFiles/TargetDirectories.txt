@@ -1,0 +1,4 @@
+/home/lofu/Documents/working_dir/Cmake_intro/hello_wrld/build/CMakeFiles/Lib.dir
+/home/lofu/Documents/working_dir/Cmake_intro/hello_wrld/build/CMakeFiles/cute.dir
+/home/lofu/Documents/working_dir/Cmake_intro/hello_wrld/build/CMakeFiles/edit_cache.dir
+/home/lofu/Documents/working_dir/Cmake_intro/hello_wrld/build/CMakeFiles/rebuild_cache.dir
